@@ -22,4 +22,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=gaurav0330&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gaurav0330&icon=1&color=0)](https://visitcount.itsvg.in)
+![Profile views](https://komarev.com/ghpvc/?username=gaurav0330&label=Profile%20views&color=0e75b6&style=flat)
