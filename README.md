@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on the Yojandesk Project.<br><br>👯 I’m looking to collaborate on React-based web apps, machine learning dashboards, or any B2B SaaS tools.<br><br>🤝 I’m looking for help with scaling Firebase authentication and optimizing ML model performance.<br><br>🌱 I’m currently learning advanced data visualization techniques and state management in large React apps.<br><br>💬 Ask me about frontend development, theme toggling in Tailwind, or integrating ML into real-world dashboards.<br><br>⚡ Fun fact: I love turning complex logic into beautiful UI — and I have a knack for finding the perfect gradient every time!<br>
+🔭 I’m currently working on the ResumeCraft Project.<br><br>👯 I’m looking to collaborate on React-based web apps, machine learning dashboards, or any B2B SaaS tools.<br><br>🤝 I’m looking for help with scaling Firebase authentication and optimizing ML model performance.<br><br>🌱 I’m currently learning advanced data visualization techniques and state management in large React apps.<br><br>💬 Ask me about frontend development, theme toggling in Tailwind, or integrating ML into real-world dashboards.<br><br>⚡ Fun fact: I love turning complex logic into beautiful UI — and I have a knack for finding the perfect gradient every time!<br>
 
 
 ## 🌐 Socials:
