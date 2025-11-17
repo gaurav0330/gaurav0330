@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gaurav Jikar
 
-Final-year **Computer Science* student and **full‑stack developer** who enjoys building scalable web applications, AI‑powered tools, and real-time dashboards. I focus on delivering clean UI, optimized performance, and production‑ready architecture.
+Final-year **Computer Science** student and **full‑stack developer** who enjoys building scalable web applications, AI‑powered tools, and real-time dashboards. I focus on delivering clean UI, optimized performance, and production‑ready architecture.
 
 ---
 
