@@ -1,65 +1,60 @@
-# 👋 Hi, I'm Gaurav Jikar
+# 👋 Hi, I’m Gaurav Jikar
 
-Final-year **Computer Science** student and **full‑stack developer** who enjoys building scalable web applications, AI‑powered tools, and real-time dashboards. I focus on delivering clean UI, optimized performance, and production‑ready architecture.
-
----
-
-## 💫 About Me
-- 🔭 Currently building **ResumeCraft-AI**, a resume optimization platform powered by HuggingFace LLMs.  
-- 👯 Open to collaborating on **React apps, B2B SaaS dashboards, ML-integrated tools**, and modern frontend systems.  
-- 🌱 Learning **scalable system design**, **advanced React state management**, and **data visualization for ML pipelines**.  
-- 💬 Ask me about **React, Tailwind theming, Node.js, GraphQL, WebSockets, Firebase Auth, and ML integrations**.  
-- 🏆 Smart India Hackathon Winner & Finalist (2023 & 2024).  
-- ⚡ Fun fact: I love turning complex backend logic into polished UI—and I never miss the perfect gradient.
+Final-year **Computer Science student** and **Full-Stack Developer** focused on building scalable web applications, AI-powered platforms, and real-time systems.  
+I enjoy designing clean UI, robust backend architectures, and production-ready solutions.
 
 ---
 
-## 🌐 Socials
-[LinkedIn](https://linkedin.com/in/gauravjikar) • [Email](mailto:gauravjikar070806@gmail.com) • [Resume](https://drive.google.com/file/d/1TycHUy__I4E0agkEDR5pwJh2mPHVex-K/view?usp=drive_link)
+## 💼 What I Do
+- Build **modern frontend systems** with React, Next.js & Tailwind  
+- Develop **scalable backends & APIs** using Node.js, GraphQL & WebSockets  
+- Integrate **AI/ML workflows** into real products  
+- Design dashboards that turn complex data into clear insights  
 
 ---
 
-## 🚀 Projects
+## 🚀 Selected Projects
 
-### **ResumeCraft-AI – AI-Powered Resume Optimizer**
-**Tech:** Next.js, PostgreSQL, HuggingFace, GraphQL, Prisma, Docker, CI/CD  
-- Built an AI-based resume optimizer with keyword matching and ATS scoring.  
-- Added real-time LaTeX preview, PDF/Markdown/HTML exports, and authentication via NeonAuth.
+### **ResumeCraft-AI — AI Resume Optimization Platform**
+**Stack:** Next.js, PostgreSQL, HuggingFace LLMs, GraphQL, Prisma  
+- Built an AI-powered resume analyzer with ATS scoring & keyword optimization  
+- Implemented real-time preview and multi-format exports (PDF, Markdown, HTML)  
+- Designed authentication & deployment pipeline for production use  
 
-### **YojanaDesk – AI-Driven Project Management**
-**Tech:** React.js, Node.js, GraphQL, WebSockets, MongoDB  
-- Built real-time chat, WebRTC video calls & RBAC.  
-- Integrated GitHub webhooks for live sync across repositories.  
-- Designed analytics dashboard reducing bottleneck detection time by 40%.
+### **YojanaDesk — AI-Driven Project Management System**
+**Stack:** React, Node.js, GraphQL, WebSockets, MongoDB  
+- Developed real-time collaboration features (chat, live updates, RBAC)  
+- Integrated GitHub webhooks for repository activity sync  
+- Built analytics dashboard improving workflow visibility and efficiency  
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend:** React.js, Next.js, Tailwind CSS, Material UI, Shadcn UI  
-**Backend:** Node.js, Express, GraphQL, REST APIs, WebSockets, WebRTC  
-**Databases:** PostgreSQL, MongoDB, MySQL, Firebase, Supabase, NeonDB  
+**Frontend:** React, Next.js, Tailwind CSS, Shadcn UI  
+**Backend:** Node.js, Express, GraphQL, REST, WebSockets  
+**Databases:** PostgreSQL, MongoDB, MySQL, Firebase  
 **Languages:** JavaScript, TypeScript, C++, Java  
-**ML/Data:** Python, Scikit-learn, Pandas, Matplotlib  
-**Tools:** Git, Docker, GitHub Actions, Vercel, Render, Railway, Figma
+**ML/Data:** Python, Scikit-learn, Pandas  
+**Tools:** Git, Docker, GitHub Actions, Vercel, Figma  
+
+---
+
+## 🏆 Achievements
+- 🥇 **Smart India Hackathon Winner & Finalist (2023 & 2024)**  
+- Built and shipped multiple full-stack & AI-integrated products  
+
+---
+
+## 🌐 Connect
+- **LinkedIn:** https://linkedin.com/in/gauravjikar  
+- **Email:** gauravjikar070806@gmail.com  
+- **Resume:** https://drive.google.com/file/d/1TycHUy__I4E0agkEDR5pwJh2mPHVex-K/view  
 
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=gaurav0330&theme=dark&hide_border=true)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=gaurav0330&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav0330&theme=dark&hide_border=true&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=gaurav0330&theme=ayu-mirage&no-frame=true&no-bg=true)
-
----
-
-## ✍️ Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
+![Stats](https://github-readme-stats.vercel.app/api?username=gaurav0330&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav0330&layout=compact&theme=dark&hide_border=true)
 
 ![Views](https://komarev.com/ghpvc/?username=gaurav0330&label=Profile%20Views&color=0e75b6&style=flat)
